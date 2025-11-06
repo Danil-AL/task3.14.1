@@ -1,0 +1,22 @@
+# Временные файлы
+*.log
+*.tmp
+*.swp
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Сборка и зависимости
+node_modules/
+dist/
+build/
+
+# Личные заметки
+todo.txt
+notes.md
